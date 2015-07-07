@@ -85,7 +85,7 @@ Then start the rails server
 vagrant@ruby-china-dev-box:~$ rails s -b 0.0.0.0
 
 ```
-Open your browser and visit http://localhost:3000
+Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
 
 ## Virtual Machine Management
