@@ -79,10 +79,12 @@ Ruby China Successfully Installed.
 ```
 Then start the rails server
 
-vagrant@ruby-china-dev-box:~$ rails s -b 0.0.0.0
 
 ```
 
+vagrant@ruby-china-dev-box:~$ rails s -b 0.0.0.0
+
+```
 Open your browser and visit http://localhost:3000
 
 
