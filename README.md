@@ -92,3 +92,14 @@ Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
 
 Visit the [Vagrant documentation](http://docs.vagrantup.com/v2/) for more information on Vagrant.
+
+
+## Credits
+
+Based on [rails-dev-box](https://github.com/rails/rails-dev-box) by Xavier Noria
+
+## License
+
+Released under the MIT License.
+Original work Copyright (c) 2012-ω Xavier Noria
+Modified work Copyright 2015 Marble Wu
