@@ -103,4 +103,5 @@ Based on [rails-dev-box](https://github.com/rails/rails-dev-box) by Xavier Noria
 Released under The MIT License (MIT).
 
 Original work Copyright (c) 2012-ω Xavier Noria
+
 Modified work Copyright (c) 2015 Marble Wu
