@@ -101,5 +101,7 @@ Based on [rails-dev-box](https://github.com/rails/rails-dev-box) by Xavier Noria
 ## License
 
 Released under the MIT License.
+
 Original work Copyright (c) 2012-ω Xavier Noria
+
 Modified work Copyright 2015 Marble Wu
